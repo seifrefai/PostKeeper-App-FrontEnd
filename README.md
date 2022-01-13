@@ -7,7 +7,7 @@ Below is a screenshot of the App
 
 - This app is called Postkeeper and it is an app that allows for creating personal posts and storing them in a MongoDB database.
 
-- When the app first loads up, it will send a get request to retrieve all posts data from our database.
+- When the app first loads up, it will send a get request to the server to retrieve all posts data from our database.
 
 - You can create new posts, update existing posts, delete posts and like posts.
 
