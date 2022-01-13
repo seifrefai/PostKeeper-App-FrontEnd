@@ -1,7 +1,7 @@
 //this section is for API calls using axios
 import axios from 'axios'
 
-const url="https://postkeeper-app.herokuapp.com/posts";
+const url="https://postkeeper-app-backend.herokuapp.com/posts";
 
 export const fetchPosts = () => axios.get(url);
 export const createPost = (newPost) => axios.post(url, newPost);
