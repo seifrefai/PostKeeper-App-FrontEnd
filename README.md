@@ -13,7 +13,7 @@ Below is a screenshot of the App
 
 - Developed the backend using Node.js, Express.js, and MongoDB, and the frontend using React.
 
-- The application components included Form, Posts, Post and Menu. The frontend retrives all the post data from the MongoDB database using Axios. 
+- The application components included Form, Posts, Post and Menu. The frontend retrieves all the post data from the MongoDB database using Axios. 
 
 ## Link to app
 
