@@ -1,4 +1,7 @@
 # PostKeeper
+
+Below is a screenshot of the App
+
 ![Screenshot](App.png)
 ## About the App
 
