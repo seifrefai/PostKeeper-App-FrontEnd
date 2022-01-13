@@ -10,7 +10,8 @@ The application components included Form, Posts, Post and Menu. The frontend ret
 
 
 ## To Do
-/*:
+
+/*
   - Add Add Login and Authentication
   - Add functionality to the Menu component
  */
